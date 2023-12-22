@@ -41,6 +41,7 @@ plt.show()
 ```
 ## Output
 <img width="481" alt="image" src="https://github.com/Nijeesh-bit/Univariate-Linear-Regression/assets/89188014/0c3d94ea-588f-4b9c-8c19-51b4eaa8ec8d">
+<img width="480" alt="image" src="https://github.com/Nijeesh-bit/Univariate-Linear-Regression/assets/89188014/8193f751-030e-463e-9742-d08339812eee">
 
 
 ## Result
